@@ -1,6 +1,6 @@
 # Advent-of-AI-papers  
 
-
+Papers are linked / listed below, but you can find their PDF versions in the `/pdfs/` directory in this repository.
 
 All papers are discussed in the [NLP Norge discord server](https://discord.gg/cNn3HqRD) 
 
