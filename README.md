@@ -20,3 +20,5 @@ I will add a paper, one day at a time.
 4. OBELICS: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents (Laurençon et al, 2023) [NeurIPS](https://nips.cc/virtual/2023/poster/73589)
 
 5. The Surprising Effectiveness of Test-Time Training for Abstract Reasoning (Akyürek et al, 2024) [Arxiv](https://arxiv.org/abs/2411.07279)
+
+6. On the Measure of Intelligence (François Chollet, 2019) [Arxiv](https://arxiv.org/abs/1911.01547)
