@@ -22,3 +22,5 @@ I will add a paper, one day at a time.
 5. The Surprising Effectiveness of Test-Time Training for Abstract Reasoning (Akyürek et al, 2024) [Arxiv](https://arxiv.org/abs/2411.07279)
 
 6. On the Measure of Intelligence (François Chollet, 2019) [Arxiv](https://arxiv.org/abs/1911.01547)
+
+7. Beyond neural scaling laws: beating power law scaling via data pruning (Sorscher, Geirhos et al, 2023) [Arxiv](https://arxiv.org/abs/2206.14486)
