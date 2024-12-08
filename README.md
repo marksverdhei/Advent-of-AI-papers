@@ -25,4 +25,4 @@ I will add a paper, one day at a time.
 
 7. Beyond neural scaling laws: beating power law scaling via data pruning (Sorscher, Geirhos et al, 2023) [Arxiv](https://arxiv.org/abs/2206.14486)
 
-8. Training Compute-Optimal Large Language Models [Arxiv](https://arxiv.org/abs/2203.15556d)
+8. Training Compute-Optimal Large Language Models [Arxiv](https://arxiv.org/abs/2203.15556)
