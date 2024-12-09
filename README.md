@@ -25,6 +25,8 @@ I will add a paper, one day at a time.
 
 7. Beyond neural scaling laws: beating power law scaling via data pruning (Sorscher, Geirhos et al, 2023) [Arxiv](https://arxiv.org/abs/2206.14486)
 
-8. Training Compute-Optimal Large Language Models [Arxiv](https://arxiv.org/abs/2203.15556)
+8. Training Compute-Optimal Large Language Models (Hoffmann et al, 2022) [Arxiv](https://arxiv.org/abs/2203.15556)
 
-9. GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models [Arxiv](https://arxiv.org/abs/2410.05229v1)
+9. GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models (Mirzadeh et al, 2024) [Arxiv](https://arxiv.org/abs/2410.05229v1)
+
+10. Frontier Models are Capable of In-context Scheming (Meinke et al, 2024) [Arxiv](https://arxiv.org/abs/2412.04984)
