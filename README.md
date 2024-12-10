@@ -30,3 +30,5 @@ I will add a paper, one day at a time.
 9. GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models (Mirzadeh et al, 2024) [Arxiv](https://arxiv.org/abs/2410.05229v1)
 
 10. Frontier Models are Capable of In-context Scheming (Meinke et al, 2024) [Arxiv](https://arxiv.org/abs/2412.04984)
+
+11. PaliGemma 2: A Family of Versatile VLMs for Transfer (Steiner et al, 2024) [Arxiv](https://arxiv.org/pdf/2412.03555)
