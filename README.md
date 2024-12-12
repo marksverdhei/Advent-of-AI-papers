@@ -32,3 +32,5 @@ I will add a paper, one day at a time.
 10. Frontier Models are Capable of In-context Scheming (Meinke et al, 2024) [Arxiv](https://arxiv.org/abs/2412.04984)
 
 11. PaliGemma 2: A Family of Versatile VLMs for Transfer (Steiner et al, 2024) [Arxiv](https://arxiv.org/pdf/2412.03555)
+
+12. Small Languages, Big Models: A Study of Continual Training on Languages of Norway (Samuel et al, 2024) [Arxiv](https://arxiv.org/abs/2412.06484)
