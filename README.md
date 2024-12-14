@@ -38,3 +38,5 @@ I will add a paper, one day at a time.
 13. Training Large Language Models to Reason in a Continuous Latent Space [Arxiv](https://arxiv.org/abs/2412.06769)
 
 14. As Good as New. How to Successfully Recycle English GPT-2 to Make Models for Other Languages [ACL](https://aclanthology.org/2021.findings-acl.74/)
+
+15. Mixtral of experts [Arxiv](https://arxiv.org/abs/2401.04088)
