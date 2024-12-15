@@ -40,3 +40,5 @@ I will add a paper, one day at a time.
 14. As Good as New. How to Successfully Recycle English GPT-2 to Make Models for Other Languages [ACL](https://aclanthology.org/2021.findings-acl.74/)
 
 15. Mixtral of experts [Arxiv](https://arxiv.org/abs/2401.04088)
+
+16. GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities [Arxiv](https://arxiv.org/abs/2406.11768)
