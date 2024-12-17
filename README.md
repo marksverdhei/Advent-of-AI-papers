@@ -44,3 +44,5 @@ I will add a paper, one day at a time.
 16. GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities [Arxiv](https://arxiv.org/abs/2406.11768)
 
 17. Emergent Abilities of Large Language Models [Arxiv](https://arxiv.org/abs/2206.07682)
+
+18. Scaling laws for transfer [Arxiv](https://arxiv.org/pdf/2102.01293)
