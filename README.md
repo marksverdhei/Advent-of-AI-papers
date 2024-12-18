@@ -46,3 +46,5 @@ I will add a paper, one day at a time.
 17. Emergent Abilities of Large Language Models [Arxiv](https://arxiv.org/abs/2206.07682)
 
 18. Scaling laws for transfer [Arxiv](https://arxiv.org/pdf/2102.01293)
+
+19. Grokking: Generalization Beyond Overfitting On Small Algorithmic Datasets [Arxiv](https://arxiv.org/abs/2201.02177)
