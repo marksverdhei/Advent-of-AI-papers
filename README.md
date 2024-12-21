@@ -50,3 +50,5 @@ I will add a paper, one day at a time.
 19. Grokking: Generalization Beyond Overfitting On Small Algorithmic Datasets [Arxiv](https://arxiv.org/abs/2201.02177)
 
 20. Deep Double Descent: Where Bigger Models And More Data Hurt [Arxiv](https://arxiv.org/pdf/1912.02292)
+
+21. Safety Alignment Should Be Made More Than Just a Few Tokens Deep [Arxiv](https://arxiv.org/pdf/2406.05946)
