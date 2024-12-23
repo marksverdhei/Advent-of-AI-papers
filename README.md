@@ -56,3 +56,5 @@ I will add a paper, one day at a time.
 22. LLMs Do Not Think Step-by-step In Implicit Reasoning [Arxiv](https://arxiv.org/abs/2411.15862)
 
 23. Byte Latent Transformer: Patches Scale Better Than Tokens [Arxiv](https://arxiv.org/abs/2412.09871)
+
+24. Self-Rewarding Language Models [Arxiv](https://arxiv.org/abs/2401.10020)
